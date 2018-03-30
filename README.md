@@ -48,10 +48,13 @@ The scores obtained are:
 Category 1 Score: 0.500
 Category 2 Score: 0.654
 Category 3 Score: 0.577
-Full report is available in report.html
+
+
 
 ## Comparing My Scores With the Top Scores of the Competition:
 2017 ISIC Challenge on Skin Lesion Analysis Towards Melanoma Detection
 Comparing with the top scores of the competition, 
-### My RANK is 22 (Out of the overall 593 registrations worldwide) 
+### My RANK is 22 (Out of the overall 593 registrations worldwide)
+### Project report is available as report.html
+
 
