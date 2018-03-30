@@ -1,6 +1,6 @@
 # 2017 ISIC Challenge on Skin Lesion Analysis Towards Melanoma Detection
 
-The competition was over in 2017. Still I want to code it and compare my results with the Winning Top Scores from the competition.
+The competition was over in 2017. I came to know about this competition in March 2018. Though it is over, I still want to code it and compare my results with the Winning Top Scores from the competition.
 
 Participation involved 593 registrations, 81 pre-submissions, 46 finalized submissions (including a 4-page manuscript), and approximately 50 attendees, making this the largest standardized and comparative study in this field to date. While the official challenge duration and ranking of participants has concluded, the dataset snapshots remain available for further research and development.
 Reference : 	https://challenge.kitware.com/#phase/5840f53ccad3a51cc66c8dab, https://arxiv.org/abs/1710.05006
